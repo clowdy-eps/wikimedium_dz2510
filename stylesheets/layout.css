@@ -1,0 +1,113 @@
+* {
+  font-family: "PT Sans", Arial, sans-serifs;
+  -webkit-font-font-smoothing: antialiased;
+  -moz-font-smoothing: grayscale;
+}
+
+/* 
+body {
+  color: rgb(0, 0, 0);
+  margin: 80px;
+  max-width: 1080px;
+}
+ */
+/* Заголовки */
+/* 
+h1 {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 24px;
+}
+*/
+/* 
+h2 {
+  font-size: 17px;
+  line-height: 19px;
+  margin-bottom: 28px;
+}
+ */
+/* 
+h3 {
+  font-size: 15px;
+  line-height: 19px;
+  margin-bottom: 28px;
+}
+ */
+/* 
+h4 {
+  font-size: 13px;
+  line-height: 17px;
+  margin-bottom: 28px;
+}
+ */
+/* Стиль лида */
+/* 
+.lid {
+  margin-top: 36px;
+  margin-bottom: 52px;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.lid2 {
+  padding-top: 52px;
+}
+
+/* Общие свойства абзацев и списков */
+/* 
+p,
+ol,
+ul {
+  font-size: 11px;
+  line-height: 23px;
+}
+
+p {
+  margin-bottom: 28px;
+}
+
+/* Стилизация нумерованных списков */
+
+/* ПОПРАВИТЬ границы!!! */
+/* 
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+ol > li {
+  padding-left: 17px;
+  margin-bottom: 0px;
+}
+
+/* Стилизация ненумерованного списка */
+/* 
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  /* margin-left: 14px; ????} */
+
+/* Стилизация картинки */
+/* 
+img {
+  width: 1020px;
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+/* Цитаты */
+/* 
+blockquote {
+  font-style: italic;
+  font-size: 11px;
+  line-height: 23px;
+  border-left: 3px solid #000;
+  padding-left: 17px;
+  margin-bottom: 52px;
+}
+
+.margin {
+  margin-bottom: 64px;
+}
+*/
